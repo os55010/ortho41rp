@@ -1,0 +1,8 @@
+file_format: "1"
+id: ortho41rp
+name: ortho41rp
+type: shield
+url: https://github.com/os55010/ortho41rp
+requires: [xiao_ble//zmk]
+features:
+  - keys
